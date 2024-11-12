@@ -274,7 +274,7 @@ SingleList<Character> characters = new SingleList<>();
   append: David
   append: Laurier
   append: covid
-  Contents: [CP213, David, Laurier, Covid]
+  Contents: [CP213, David, Laurier, covid]
 
 ----------------------------------------
 Test List with strings
