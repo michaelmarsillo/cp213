@@ -28,7 +28,7 @@ import javax.swing.event.ChangeListener;
 /**
  * Uses GUI widgets and listeners to illustrate the use of inner classes.
  *
- * @author your name here
+ * @author Michael Marsillo, 169057769, mars7769@mylaurier.ca
  * @version 2022-07-09
  */
 @SuppressWarnings("serial")
